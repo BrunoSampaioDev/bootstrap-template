@@ -5,7 +5,12 @@ body{
     margin: auto;
 }
 
-
+.user-image{
+    width: 40px;
+}
+.logo{
+    width: 100px;
+}
 .title-section{
 
     max-width: 95%;
@@ -164,6 +169,10 @@ body{
 .card-text{
     text-align: center;
     font-size: 13px;
+}
+
+.correct{
+    height: 275px;
 }
 
 ul{
